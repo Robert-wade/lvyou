@@ -1,0 +1,56 @@
+.about_wenzi{
+	padding-top: 50px;
+	font-family: Microsoft YaHei;
+	color: rgba(12, 62, 114, 1);
+	line-height: 1.5;
+	font-size: 38px;
+	text-align: center;
+}
+
+.about_p1{
+  margin: 8px 0px;
+  word-wrap: break-word;
+  color: #888888;
+  font: 14px Microsoft YaHei;
+}
+.about_p2{
+  margin: 30px 0px 30px;
+  word-wrap: break-word;
+  color: #999999;
+  font: 14px Microsoft YaHei;
+}
+
+.about_img{
+	width: 100%;
+  max-height: 100%;
+  height: 100%;
+	float: left;
+  justify-content: center;
+  text-align: center;
+}
+
+.fuwu_p{
+  margin: 20px 0px;
+  word-wrap: break-word;
+  color: #333333;
+  font: 18px Microsoft YaHei;
+  text-align: center;
+}
+.wufu_p1{
+  text-align: center;
+  margin: 8px 0px;
+  word-wrap: break-word;
+  color: #888888;
+  font: 14px Microsoft YaHei;
+}
+
+.youke{
+  width:492px ;
+  height:349px ;
+}
+
+.xiangce{
+  width: 397.33px;
+  height: 541.69px;
+  background-color: #0c3e72;
+}

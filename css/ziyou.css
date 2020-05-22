@@ -1,0 +1,22 @@
+.ziyou_img{
+	max-width: 100%;
+  height: auto;
+  float: left;
+	padding-bottom: 20px;
+	justify-content: center;
+}
+
+.ziyou_wenzi{
+  color: rgba(12, 62, 114, 1);
+  font-size: 20px;
+  line-height: 3;
+  text-align: left;
+  font-weight: bold;
+}
+.ziyou_p{
+  margin: 30px 0px 30px;
+  word-wrap: break-word;
+  color: #999999;
+  font: 14px Microsoft YaHei;
+  text-align: right;
+}
